@@ -5,3 +5,7 @@ Cosc 4735
 Description:  Run on two phone, select Advertise on one and Discover on the other. Follow prompts. Ran on pixel 2's.
 
 Anything that doesn't work:
+
+# Graded: 50/50 #
+
+* Everything works as expected
